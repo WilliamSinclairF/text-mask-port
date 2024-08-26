@@ -1,6 +1,6 @@
 {
   "name": "text-mask-all-port",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Conforms string to given mask or pattern, and can be hooked up to input element",
   "main": "index.js",
   "babel": {
